@@ -15,5 +15,6 @@ short_description: Seat-Belt-Detection
 
 Try the Seatbelt Detection app on Hugging Face Spaces:
 
-[![Hugging Face Space](https://img.shields.io/badge/demo-huggingface-blue?logo=huggingface)](https://huggingface.co/spaces/aditii27/Seatbelt-detection)
+[Seatbelt Detection - Hugging Face Space](https://huggingface.co/spaces/aditii27/Seatbelt-detection)
 
+[![Hugging Face Space](https://img.shields.io/badge/demo-huggingface-blue?logo=huggingface)](https://huggingface.co/spaces/aditii27/Seatbelt-detection)
