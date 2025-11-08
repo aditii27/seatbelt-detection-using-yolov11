@@ -1,0 +1,14 @@
+streamlit
+pillow
+torch
+torchvision
+opencv-python-headless
+numpy
+pandas
+pyyaml
+requests
+scipy
+tqdm
+matplotlib
+seaborn
+ultralytics
