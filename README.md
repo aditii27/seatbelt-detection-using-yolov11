@@ -11,4 +11,9 @@ license: mit
 short_description: Seat-Belt-Detection
 ---
 
+## 🚀 Live Demo
+
+Try the Seatbelt Detection app on Hugging Face Spaces:
+
+[![Hugging Face Space](https://img.shields.io/badge/demo-huggingface-blue?logo=huggingface)](https://huggingface.co/spaces/aditii27/Seatbelt-detection)
 
