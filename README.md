@@ -97,7 +97,7 @@ Then open `http://localhost:8501` in your browser.
 
 ---
 
-## 🧪 Training Overview (Optional)
+## 🧪 Training Overview 
 
 The deployed model is trained with Ultralytics YOLO on a custom seatbelt dataset.
 
@@ -111,24 +111,13 @@ Replace `seatbelt.yaml` with your dataset configuration path.
 
 ---
 
-## 🐳 Docker Usage (Optional)
-
-If you add a `Dockerfile`, build and run with:
-
-```bash
-docker build -t seatbelt-yolo11 .
-docker run -p 8501:8501 seatbelt-yolo11
-```
-
----
-
 ## 📷 Sample Results
 
 Add your own images under `images/` folder and update paths below:
 
 | Input Image | Output (Detections) |
 |------------|---------------------|
-| ![input](images/input.jpg) | ![output](images/output.jpg) |
+| ![input](images/input.jpg) | ![output](images/output.png) |
 
 ---
 
