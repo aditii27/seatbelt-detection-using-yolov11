@@ -140,7 +140,7 @@ See the `LICENSE` file or repository settings for more details.
 
 ## 👨‍💻 Author
 
-**Aditii27**
+**Aditi Soni**
 
 GitHub: [github.com/aditii27](https://github.com/aditii27)
 
